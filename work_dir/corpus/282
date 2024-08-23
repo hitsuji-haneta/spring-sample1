@@ -1,0 +1,13 @@
+Reverted? false 
+ Txn:
+[38;2;205;121;221m[Sender] 0x8EF508Aca04B32Ff3ba5003177cb18BfA6Cd79dd[0m
+   ├─[1] [38;2;0;118;255mRouter[0m.[38;2;255;123;114mswapExactETHForTokens[0m{value: [38;2;153;0;204m37403[0m}(0, path:(WETH → [38;2;121;64;111m0x446C9033E7516D820cc9a2ce2d0B7328b579406F[0m), address(this), block.timestamp);
+   └─[1] [38;2;0;118;255mRouter[0m.[38;2;255;123;114mswapExactETHForTokens[0m{value: [38;2;153;0;204m10.0 ether[0m}(0, path:(WETH → [38;2;121;64;111m0x446C9033E7516D820cc9a2ce2d0B7328b579406F[0m), address(this), block.timestamp);
+[38;2;220;144;36m[Sender] 0x68Dd4F5AC792eAaa5e36f4f4e0474E0625dc9024[0m
+   ├─[1] [38;2;121;64;111m0x446C9033E7516D820cc9a2ce2d0B7328b579406F[0m.[38;2;255;123;114mtransferFromWithReference[0m([38;2;0;118;255m0x0000000000000000000000000000000000000000[0m, [38;2;220;144;36m0x68Dd4F5AC792eAaa5e36f4f4e0474E0625dc9024[0m, 352163303938785097857109007119428942330927915930997669.9122 ether, 0xff7fff96004280a733f45eefb6c46e74c7cc5684)
+   │  └─ ← 0x00
+   ├─[1] [38;2;121;64;111m0x446C9033E7516D820cc9a2ce2d0B7328b579406F[0m.[38;2;255;123;114moptOut[0m()
+   │  └─ ← 0x01
+[38;2;205;121;221m[Sender] 0x8EF508Aca04B32Ff3ba5003177cb18BfA6Cd79dd[0m
+   ├─[1] [38;2;6;235;72m0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48[0m.[38;2;255;123;114mincreaseAllowance[0m([38;2;205;121;221m0x8EF508Aca04B32Ff3ba5003177cb18BfA6Cd79dd[0m, 0)
+   │  └─ ← 0x01

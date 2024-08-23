@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
-contract RiskyDonation {
+contract Donation {
     address owner;
     uint256 public bonus = 0;
     mapping(address => uint256[]) public balances;

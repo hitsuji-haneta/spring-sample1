@@ -1,0 +1,72 @@
+Contract: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+Instruction Coverage: 817/1487 (54.94%) 
+Branch Coverage: 34/76 (44.74%) 
+--------------------------------
+Contract: 0xa7f00a55324c13a880f60dee8a4a5447099e5e44
+Instruction Coverage: 716/1601 (44.72%) 
+Branch Coverage: 33/112 (29.46%) 
+--------------------------------
+Contract: 0x60bf91ac87fee5a78c28f7b67701fbcfa79c18ec
+Instruction Coverage: 1178/2067 (56.99%) 
+Branch Coverage: 54/118 (45.76%) 
+--------------------------------
+Contract: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+Instruction Coverage: 280/733 (38.20%) 
+Branch Coverage: 17/40 (42.50%) 
+--------------------------------
+Contract: 0x3f57f8dd7cf41862cde6715c58225439fb0503e1
+Instruction Coverage: 2016/2659 (75.82%) 
+Branch Coverage: 77/136 (56.62%) 
+--------------------------------
+Contract: 0x37ab77c9175de43020eb9f32c4e1f3014aa15a80
+Instruction Coverage: 7138/14085 (50.68%) 
+Branch Coverage: 321/754 (42.57%) 
+--------------------------------
+Contract: 0x331d077518216c07c87f4f18ba64cd384c411f84
+Instruction Coverage: 4422/8192 (53.98%) 
+Branch Coverage: 212/464 (45.69%) 
+--------------------------------
+Contract: 0x48681684ffcc808c10e519364d31b73662b3e333
+Instruction Coverage: 536/966 (55.49%) 
+Branch Coverage: 32/54 (59.26%) 
+--------------------------------
+Contract: 0x3eac18acf8418d46851975c41d534da2c39c7f8f
+Instruction Coverage: 15/18 (83.33%) 
+Branch Coverage: 1/2 (50.00%) 
+--------------------------------
+Contract: 0x1f98431c8ad98523631ae4a59f267346ea31f984
+Instruction Coverage: 246/15619 (1.58%) 
+Branch Coverage: 21/826 (2.54%) 
+--------------------------------
+Contract: 0x446c9033e7516d820cc9a2ce2d0b7328b579406f
+Instruction Coverage: 4063/5697 (71.32%) 
+Branch Coverage: 184/310 (59.35%) 
+--------------------------------
+Contract: 0x4e8703a59fec01a97d4d2d76271e4f086dbb52fc
+Instruction Coverage: 139/651 (21.35%) 
+Branch Coverage: 8/22 (36.36%) 
+--------------------------------
+Contract: 0x987b842235b0e73a80948296837de09f8eab1765
+Instruction Coverage: 322/751 (42.88%) 
+Branch Coverage: 22/58 (37.93%) 
+--------------------------------
+Contract: 0x800c32eaa2a6c93cf4cb51794450ed77fbfbb172
+Instruction Coverage: 677/843 (80.31%) 
+Branch Coverage: 28/40 (70.00%) 
+--------------------------------
+Contract: 0xce81bc335ec2818b5926299ab65b7f2a7d882208
+Instruction Coverage: 1970/5621 (35.05%) 
+Branch Coverage: 70/298 (23.49%) 
+--------------------------------
+Contract: 0x96a51938cfb22565e0d40694fe103675c63ae218
+Instruction Coverage: 2518/5105 (49.32%) 
+Branch Coverage: 83/200 (41.50%) 
+--------------------------------
+Contract: 0x43506849d7c04f9138d1a2050bbf3a0c054402dd
+Instruction Coverage: 5271/10196 (51.70%) 
+Branch Coverage: 263/538 (48.88%) 
+--------------------------------
+Contract: 0xe592427a0aece92de3edee1f18e0157c05861564
+Instruction Coverage: 3944/5910 (66.73%) 
+Branch Coverage: 200/396 (50.51%) 
+--------------------------------

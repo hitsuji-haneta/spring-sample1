@@ -1,0 +1,8 @@
+Reverted? false 
+ Txn:
+[38;2;205;121;221m[Sender] 0x8EF508Aca04B32Ff3ba5003177cb18BfA6Cd79dd[0m
+   ├─[1] [38;2;0;118;255mRouter[0m.[38;2;255;123;114mswapExactETHForTokens[0m{value: [38;2;153;0;204m37403[0m}(0, path:(WETH → [38;2;121;64;111m0x446C9033E7516D820cc9a2ce2d0B7328b579406F[0m), address(this), block.timestamp);
+   ├─[1] [38;2;0;118;255mRouter[0m.[38;2;255;123;114mswapExactETHForTokens[0m{value: [38;2;153;0;204m309480287.4548 ether[0m}(0, path:(WETH → [38;2;121;64;111m0x446C9033E7516D820cc9a2ce2d0B7328b579406F[0m), address(this), block.timestamp);
+   ├─[1] [38;2;0;118;255mRouter[0m.[38;2;255;123;114mswapExactETHForTokens[0m{value: [38;2;153;0;204m1729356336[0m}(0, path:(WETH → [38;2;121;64;111m0x446C9033E7516D820cc9a2ce2d0B7328b579406F[0m), address(this), block.timestamp);
+   ├─[1] [38;2;58;226;24m0x96a51938CFB22565E0d40694Fe103675c63AE218[0m.[38;2;255;123;114massets[0m(0x000000865f6c58f00e7c218289b83fef12071827e95c97e43f4e2b4ceb93f5e0)
+   │  └─ ← 0x00
